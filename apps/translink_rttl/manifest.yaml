@@ -1,0 +1,8 @@
+---
+id: translink-rtti
+name: TransLink RTTI
+summary: Shows Vancouver Next Bus
+desc: Shows the next 2 buses of any Bus stop in Vancouver which have a Stop IDShows the next 2 buses of any Bus stop in Vancouver which have a Stop ID.
+author: NormalPPL
+fileName: translink_rtti.star
+packageName: translinkrtti
